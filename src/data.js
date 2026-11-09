@@ -1,0 +1,30 @@
+// Contenido de la Tarea 2 (Reina-Valera 1960). Edita aquí tus textos y reflexiones.
+export const VERSES = [
+  { ref: 'Génesis 18:32', sub: 'Génesis · capítulo 18 · versículo 32',
+    text: '“Y volvió a decir: No se enoje ahora mi Señor, si hablare solamente esta vez: quizá se hallarán allí diez. No la destruiré, respondió, por amor de los diez.”',
+    teaches: 'Abraham se acerca a Dios para pedir misericordia por Sodoma, donde vivía su sobrino Lot. Insiste con respeto y Dios lo escucha. Enseña que la intercesión nace de un corazón que se preocupa por otros.',
+    mine: 'Me llama la atención que Abraham no pedía por sí mismo. Pidió por personas que ni siquiera conocía. Me hace pensar que puedo orar incluso por quienes no son cercanos a mí.',
+    apply: 'Orar con respeto y perseverancia por mi familia, mis amigos y mi ciudad, sin cansarme.' },
+  { ref: 'Lucas 23:34', sub: 'Lucas · capítulo 23 · versículo 34',
+    text: '“Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen.”',
+    teaches: 'Desde la cruz, Jesús intercede por quienes lo estaban crucificando. Une el perdón con la oración: pide a Dios por quienes le hacían daño.',
+    mine: 'Este texto conecta directamente con la Tarea 1. Si Jesús oró por quienes lo lastimaron, yo no tengo excusa para guardar rencor. Perdonar y orar van de la mano.',
+    apply: 'Si alguna vez alguien me ofende, orar por esa persona antes de reaccionar.' },
+  { ref: 'Romanos 8:34', sub: 'Romanos · capítulo 8 · versículo 34',
+    text: '“¿Quién es el que condenará? Cristo es el que murió; más aun, el que también resucitó, el que además está a la diestra de Dios, el que también intercede por nosotros.”',
+    teaches: 'Cristo, resucitado y a la diestra de Dios, intercede por nosotros. Nuestra seguridad delante de Dios descansa en lo que Él hizo y sigue haciendo.',
+    mine: 'Saber que Jesús intercede por mí me da paz. No dependo de ser perfecto, y eso me anima a interceder por otros con la misma gracia con la que Él me trata.',
+    apply: 'Confiar en Su intercesión cuando falle, y no condenar a otros.' },
+  { ref: '1 Timoteo 2:1', sub: '1 Timoteo · capítulo 2 · versículo 1',
+    text: '“Exhorto ante todo a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres.”',
+    teaches: 'Pablo pone la oración “ante todo” y dice que debe hacerse por todos. La intercesión no es opcional ni un extra: es una prioridad en la vida de la iglesia.',
+    mine: 'La palabra “todos” me desafía, porque incluye a quienes pienso distinto o me cuesta entender. Interceder me ayuda a mirarlos con compasión.',
+    apply: 'Hacer una lista de personas y orar por ellas con regularidad, también dando gracias.' },
+  { ref: 'Santiago 5:16', sub: 'Santiago · capítulo 5 · versículo 16',
+    text: '“Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.”',
+    teaches: 'Santiago junta confesar las ofensas y orar unos por otros. La reconciliación y la intercesión se necesitan: una sana las relaciones y la otra sostiene a los hermanos.',
+    mine: 'Este versículo resume bien las dos tareas. Me enseña que una comunidad sana es donde se reconocen los errores con humildad y se ora con sinceridad.',
+    apply: 'Ser humilde para reconocer mis faltas y fiel para orar por mis hermanos.' },
+];
+export const NAV = [['inicio', '◉', 'Inicio'], ['reconciliacion', '01', 'Reconciliación'], ['intercesion', '02', 'Intercesión'], ['reflexion', '03', 'Reflexión'], ['conclusion', '04', 'Conclusión']];
+export const PATH = [['Paz', 'Estoy bien con los demás'], ['Reflexión', 'Examino mi corazón'], ['Perdón', 'Dispuesto a dar y pedir'], ['Reconciliación', 'Busco la paz siempre']];
